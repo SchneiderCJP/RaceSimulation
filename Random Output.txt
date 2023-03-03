@@ -1,0 +1,104 @@
+Supply Coordinator has placed battery and refreshments out on the table.
+Racer 4 has completed lap #1
+Racer 3 has completed lap #1
+Racer 1 has completed lap #1
+Racer 2 has completed lap #1
+Racer 5 has completed lap #1
+Racer 6 has completed lap #1
+Racer 4 has completed lap #2
+Racer 4 has stopped at the general refreshments table.
+Racer 3 has completed lap #2
+Racer 1 has completed lap #2
+Racer 2 has completed lap #2
+Racer 5 has completed lap #2
+Racer 6 has completed lap #2
+Racer 6 has stopped at the general refreshments table.
+Racer 3 has completed lap #3
+Racer 1 has completed lap #3
+Racer 2 has completed lap #3
+Racer 5 has completed lap #3
+Racer 3 has completed lap #4
+Racer 1 has completed lap #4
+Racer 1 has stopped at the general refreshments table.
+Racer 2 has completed lap #4
+Racer 2 has stopped at the general refreshments table.
+Racer 5 has completed lap #4
+Racer 4 has replenished their needs and has returned to the race.
+Racer 3 has completed lap #5
+Racer 3 has stopped at the general refreshments table.
+Racer 5 has completed lap #5
+Racer 5 has stopped at the general refreshments table.
+Racer 4 has completed lap #3
+Supply Coordinator has placed tires and refreshments out on the table.
+Racer 4 has completed lap #4
+Racer 4 has completed lap #5
+Racer 4 has stopped at the general refreshments table.
+Supply Coordinator has placed battery and refreshments out on the table.
+Racer 2 has replenished their needs and has returned to the race.
+Racer 2 has completed lap #5
+Supply Coordinator has placed tires on the table.
+Racer 2 has completed lap #6
+Racer 2 has completed lap #7
+Supply Coordinator has placed battery and tires out on the table.
+Racer 5 has replenished their needs and has returned to the race.
+Racer 2 has completed lap #8
+Racer 5 has completed lap #6
+Racer 2 has completed lap #9
+Supply Coordinator has placed tires and refreshments out on the table.
+Racer 6 has replenished their needs and has returned to the race.
+Racer 5 has completed lap #7
+Racer 2 has completed lap #10
+Racer 2 is car number 1 to finish the race.
+Racer 6 has completed lap #3
+Racer 5 has completed lap #8
+Supply Coordinator has placed refreshment on the table.
+Racer 1 has replenished their needs and has returned to the race.
+Racer 6 has completed lap #4
+Racer 5 has completed lap #9
+Racer 1 has completed lap #5
+Racer 6 has completed lap #5
+Racer 5 has completed lap #10
+Racer 5 is car number 2 to finish the race.
+Racer 1 has completed lap #6
+Racer 6 has completed lap #6
+Racer 1 has completed lap #7
+Racer 6 has completed lap #7
+Racer 1 has completed lap #8
+Racer 6 has completed lap #8
+Racer 6 has stopped at the general refreshments table.
+Racer 1 has completed lap #9
+Racer 1 has stopped at the general refreshments table.
+Supply Coordinator has placed tires and refreshments out on the table.
+Supply Coordinator has placed battery and tires out on the table.
+Racer 3 has replenished their needs and has returned to the race.
+Supply Coordinator has placed battery and tires out on the table.
+Racer 3 has completed lap #6
+Supply Coordinator has placed refreshment on the table.
+Racer 3 has completed lap #7
+Racer 3 has completed lap #8
+Racer 4 has replenished their needs and has returned to the race.
+Supply Coordinator has placed refreshment on the table.
+Racer 3 has completed lap #9
+Racer 4 has completed lap #6
+Racer 3 has completed lap #10
+Racer 3 is car number 3 to finish the race.
+Racer 4 has completed lap #7
+Racer 4 has completed lap #8
+Racer 4 has stopped at the general refreshments table.
+Supply Coordinator has placed battery and tires out on the table.
+Supply Coordinator has placed battery and tires out on the table.
+Racer 6 has replenished their needs and has returned to the race.
+Racer 6 has completed lap #9
+Supply Coordinator has placed refreshment on the table.
+Racer 6 has completed lap #10
+Racer 6 is car number 4 to finish the race.
+Supply Coordinator has placed refreshment on the table.
+Racer 1 has replenished their needs and has returned to the race.
+Racer 1 has completed lap #10
+Racer 1 is car number 5 to finish the race.
+Supply Coordinator has placed battery and refreshments out on the table.
+Supply Coordinator has placed tires and refreshments out on the table.
+Racer 4 has replenished their needs and has returned to the race.
+Racer 4 has completed lap #9
+Racer 4 has completed lap #10
+Racer 4 is car number 6 to finish the race.
